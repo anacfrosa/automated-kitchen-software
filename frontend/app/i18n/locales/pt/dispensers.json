@@ -1,0 +1,100 @@
+{
+  "title": "Dispensadores",
+  "subtitle1": "Frigorífico",
+  "subtitle2": "Temperatura Ambiente",
+  "freeStatus": "Livre",
+  "drawer": {
+    "title": "Dispensador",
+    "ingredient": "Ingrediente",
+    "form": "Forma",
+    "level": "Nível",
+    "filDate": "Data de Abastecimento",
+    "secDate": "Data de Expiração Secundária",
+    "maxCap": "Capacidade Máxima",
+    "currQty": "Quantidade Atual",
+    "lotNumber": "Número de lot",
+    "temperature": "Temperatura",
+    "humidity": "Humidade",
+    "refillBtt": "Reabastecer",
+    "removeBtt": "Remover"
+  },
+  "add": {
+    "fill": "Abastecer Dispensador",
+    "refill": "Reabastecer Dispensador",
+    "number": "Número do Dispensador",
+    "storage": "Local do Dispensador",
+    "ingredient": "Ingrediente",
+    "lot": "Número de Lot",
+    "qtyStorage": "Quantidade no inventário",
+    "qtyDisp": "Quantidade no dispensador",
+    "qtyAvailable": "Quantidade disponível para adicionar",
+    "maxCap": "Capacidade máxima",
+    "totalQty": "Quantidade total disponível",
+    "qtyToAdd": "Quantidade a ser adicionada",
+    "confirmQty": "Confirme a quantidade a ser adicionada",
+    "requiredQty": "Quantidade necessária",
+    "quantity": "Quantidade",
+    "list": "Lista de Lots Disponíveis",
+    "confirmList": "Confirmar quantidades",
+    "labels": {
+      "available": "Quantidade disponível",
+      "confirm": "Confirmar Quantidade"
+    }
+  },
+  "remove": {
+    "title": "Remover do Dispensador",
+    "number": "Número do Dispensador",
+    "ingredient": "Ingrediente",
+    "form": "Forma",
+    "currQty": "Quantidade Atual",
+    "fillDate": "Data de Abastecimento",
+    "secDate": "Data de Expiração Secundária",
+    "removeQty": "Quantidade a ser removida",
+    "listLots": "Lista de número de lots a serem removidos",
+    "reason": {
+      "title": "Motivo de remoção",
+      "reason1": "Remoção de ingrediente da lista de receitas.",
+      "reason2": "Remoção do ingrediente por não conformidade com a regulamentação sanitária.",
+      "reason3": "Remoção por ter ultrapassado o prazo de validade.",
+      "reason4": "Outros motivos.",
+      "placeholder": "Insira outros motivos..."
+    },
+    "removeBtt": "Remover"
+  },
+  "removeAlerts": {
+    "title": "Confirmar remoção do ingrediente do dispensador",
+    "content1": "Esta ação irá remover o inventário de ",
+    "content2": " do dispensador."
+  },
+  "addAlerts": {
+    "title": "Confirmar reabastecer dispensador",
+    "title2": "Confirmar abastecer dispensador",
+    "content1": "Esta ação irá adicionar",
+    "content2": "de",
+    "content3": "ao dispensador"
+  },
+  "fillAlerts": {
+    "title1": "Confirmar abastecimento de ",
+    "title2": " no dispensador "
+  },
+  "cancelAlerts": {
+    "title": "Cancelar Reabastecimento do Dispensador",
+    "content": "Esta acção irá cancelar o reabastecimento do dispensador"
+  },
+  "refillNotAllowed": {
+    "title": "Reabastecimento não permitido.",
+    "content1": "Reabastecimento permitido apenas para dispensadores com o mesmo lot.",
+    "content2": "Dispensador cheio.",
+    "content3": "Quantidade armazenada no inventário insuficiente."
+  },
+  "editAlert": {
+    "title": "Modo Editar Ativo.",
+    "content": "Por favor, confirme os valores editados."
+  },
+  "confirmAlert": {
+    "title": "Erro nos campos de confirmação.",
+    "content": ""
+  },
+  "yes": "Sim",
+  "no": "Não"
+}

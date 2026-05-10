@@ -1,0 +1,8 @@
+{
+  "itemCreate": "An item has been created successfully.",
+  "itemUpdate": "An item has been updated successfully.",
+  "itemDelete": "An item has been deleted successfully.",
+  "itemFound": "An item was found with the given {id}",
+  "itemNotFound": "No item was found with the givennnnnn {id}",
+  "somethingWrong": "Something went wrong!"
+}

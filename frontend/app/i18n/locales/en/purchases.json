@@ -1,0 +1,177 @@
+{
+  "title": "Purchases",
+  "status": {
+    "Delivered": "Delivered",
+    "Pending": "Pending",
+    "Canceled": "Cancel"
+  },
+  "searchInput": "Search by number, supplier, or total cost...",
+  "buttons": {
+    "register": "New Purchase",
+    "filters": "Filter",
+    "export": "Export",
+    "downloadAsExcel": "Download Excel",
+    "downloadAsCSV": "Download CSV",
+    "submit": "Submit",
+    "details": "Details"
+  },
+  "tabsTitle": {
+    "all": "All",
+    "delivered": "Delivered",
+    "pending": "Pending",
+    "canceled": "Cancel"
+  },
+  "tableHead": {
+    "number": "Number",
+    "supplier": "Supplier",
+    "status": "Status",
+    "purchaseDate": "Purchase Date",
+    "expectedDate": "Expected Delivery Date",
+    "totalCost": "Total Cost"
+  },
+  "filtersDrawer": {
+    "title": "Filters",
+    "purchaseDate": "Purchase Date",
+    "deliveryDate": "Expected Delivery Date",
+    "clear": "Clear all",
+    "from": "From",
+    "until": "Until"
+  },
+  "noData": {
+    "notFound": {
+      "title": "Not Found.",
+      "problem": "No results found for",
+      "help": "Try checking for typos or using complete words."
+    },
+    "empty": {
+      "title": "Empty purchase list.",
+      "problem": "There is no record of any purchase."
+    }
+  },
+  "details": {
+    "title": "Purchases",
+    "receiveBtt": "Receive",
+    "cancelBtt": "Cancel",
+    "purchaseDate": "Purchase Date",
+    "expectedDate": "Expected Delivery Date",
+    "receptionDate": "Reception Date",
+    "supplierInfo": "Supplier Information",
+    "ingrsList": {
+      "title": "Ingredients List",
+      "ingr": "Ingredient",
+      "isAccepted": "Accepted",
+      "lot": "Lot Number",
+      "quantity": "Quantity",
+      "pricePerKg": "Price per Kg",
+      "cost": "Cost",
+      "total": "Total"
+    },
+    "cancelAlert": {
+      "title": "Confirm Cancel Purchase?",
+      "subtitle": "This will cancel the Purchase ",
+      "action1": "Yes",
+      "action2": "No",
+      "cancelSuccess": "Purchase canceled with success"
+    }
+  },
+  "new": {
+    "title": "Register New Purchase",
+    "number": "Purchase Number",
+    "status": "Status",
+    "purchaseDate": "Purchase Date",
+    "expectedDate": "Expected Delivery Date",
+    "expectedTime": "Expected Delivery Time",
+    "supplier": "Supplier",
+    "ingrsList": {
+      "title": "Ingredients List",
+      "ingr": "Ingredient",
+      "quantity": "Quantity",
+      "measureUnit": "Measure Unit",
+      "pricePerKg": "Price per Kg",
+      "cost": "Cost",
+      "delete": "Remove"
+    },
+    "addIngr": "Add Ingredient",
+    "total": "Total",
+    "warning": "Please append at least 1 ingredient.",
+    "success": "New purchase added !"
+  },
+  "reception": {
+    "title": "Receive Purchase",
+    "tablesHead": {
+      "task": "Task",
+      "conform": "Conform",
+      "nonconform": "Non Conform",
+      "cantobserve": "Can't Observe"
+    },
+    "step1": {
+      "title": "Transport Check",
+      "tableBody": {
+        "task1": {
+          "task": "General cleaning",
+          "help": "Ensure the detection of water, dust, and other contaminants in load boxes. Additionally, verify the absence of biological hazards such as insects and rats."
+        },
+        "task2": {
+          "task": "Structural integrity",
+          "help": "Adequate separation between products of different characteristics."
+        },
+        "task3": {
+          "task": "Temperature control",
+          "help": "Verify if the temperature for perishable ingredients falls within the range of 0ºC a 5ºC."
+        }
+      }
+    },
+    "step2": {
+      "title": "Food Check",
+      "tableBody": {
+        "task1": {
+          "task": "Packing well preserved",
+          "help": "Verify if the the package is clean, dry and with no deformations."
+        },
+        "task2": {
+          "task": "Adequate organoleptic characteristics",
+          "help": "Verifify the color, texture, smell and general appearence."
+        }
+      }
+    },
+    "step3": {
+      "title": "Purchase Reception",
+      "ingredientsList": "Ingredients List",
+      "ingredientDetails": "Ingredient Details",
+
+      "actions": {
+        "add": "Add",
+        "edit": "Edit",
+        "delete": "Delete"
+      },
+      "fields": {
+        "name": "Name",
+        "ingredient": "Ingredient",
+        "receptionDate": "Reception Date",
+        "supplier": "Supplier",
+        "quantity": "Quantity",
+        "lotnumber": "Lot Number",
+        "expiryDate": "Expiry Date",
+        "expiryTime": "Expiry Time"
+      },
+      "message": "Select the ingredient from the 'Ingredients' list."
+    },
+    "missFields": {
+      "title": "Invalid fields.",
+      "subtitle": "Please fill in all the values correctly."
+    },
+    "confirmList": {
+      "title": "Confirm ingredients list ?",
+      "yes": "Yes",
+      "no": "No"
+    }
+  },
+  "alertCancel": {
+    "title": "Cancel Purchase Reception?",
+    "content": "This will cancel the purchase reception."
+  },
+  "alertNonConform": {
+    "title": "Non-Conformity ingredients",
+    "content": "It was detected that ingredients are not within regulations. Please select the ingredients that are not in conformity. For those that are conform, you can fill the fields to accept the ingredient."
+  }
+}

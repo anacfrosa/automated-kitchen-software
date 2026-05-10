@@ -1,0 +1,21 @@
+{
+  "title": "Maintenance Management",
+  "optionCard": {
+    "storage": {
+      "title": "Storage management",
+      "subtitle": "Ingredients Storage"
+    },
+    "cooking": {
+      "title": "Meal management",
+      "subtitle": "Cooking"
+    },
+    "cleaning": {
+      "title": "Cleaning process management",
+      "subtitle": "Cleaning"
+    },
+    "equipment": {
+      "title": "Equipment Management",
+      "subtitle": "Equipment"
+    }
+  }
+}

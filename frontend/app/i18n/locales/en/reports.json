@@ -1,0 +1,33 @@
+{
+  "title": "Reports",
+  "optionCard": {
+    "ingredients": {
+      "title": "Ingredients Reports",
+      "subtitle": "Ingredients"
+    },
+    "temperature": {
+      "title": "Temperature Reports",
+      "subtitle": "Temperature"
+    },
+    "water": {
+      "title": "Water Reports",
+      "subtitle": "Water"
+    },
+    "incidents": {
+      "title": "Incidents Reports",
+      "subtitle": "Incidents"
+    }
+  },
+  "ingrReports": "Ingredients Reports",
+  "buttons": {
+    "wastage": "Wastages",
+    "consumption": "Consumptions"
+  },
+  "plots": {
+    "consumption": "Ingredient Consumption",
+    "wastage": "Ingredient Wastage"
+  },
+  "datePicker": "Select month and year",
+  "xAxis": "Day of the month",
+  "yAxis": "Measure Unit (Kg)"
+}

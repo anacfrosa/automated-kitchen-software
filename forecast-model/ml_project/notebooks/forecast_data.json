@@ -1,0 +1,272 @@
+[
+  {
+    "ingredientId": "9b77593e-792d-4e99-9040-d0718499b77b",
+    "date": "2024-07-01",
+    "quantity": 22.0,
+    "measureUnit": "g"
+  },
+  {
+    "ingredientId": "c388bb8c-08c1-4aee-9322-ea9e9fd2df2d",
+    "date": "2024-07-01",
+    "quantity": 12.1,
+    "measureUnit": "kg"
+  },
+  {
+    "ingredientId": "b405114e-8665-45ea-bd75-b6380167003c",
+    "date": "2024-07-01",
+    "quantity": 4.1,
+    "measureUnit": "kg"
+  },
+  {
+    "ingredientId": "5ba6c6c1-d2b2-4e11-b5ab-92ecd03ba6ea",
+    "date": "2024-07-01",
+    "quantity": 413.0,
+    "measureUnit": "g"
+  },
+  {
+    "ingredientId": "5ca0c5cd-923a-410a-85fb-97c1716c97d3",
+    "date": "2024-07-01",
+    "quantity": 4.2,
+    "measureUnit": "kg"
+  },
+  {
+    "ingredientId": "9b77593e-792d-4e99-9040-d0718499b77b",
+    "date": "2024-07-02",
+    "quantity": 9.0,
+    "measureUnit": "g"
+  },
+  {
+    "ingredientId": "c388bb8c-08c1-4aee-9322-ea9e9fd2df2d",
+    "date": "2024-07-02",
+    "quantity": 5.1,
+    "measureUnit": "kg"
+  },
+  {
+    "ingredientId": "b405114e-8665-45ea-bd75-b6380167003c",
+    "date": "2024-07-02",
+    "quantity": 1.7,
+    "measureUnit": "kg"
+  },
+  {
+    "ingredientId": "5ba6c6c1-d2b2-4e11-b5ab-92ecd03ba6ea",
+    "date": "2024-07-02",
+    "quantity": 178.0,
+    "measureUnit": "g"
+  },
+  {
+    "ingredientId": "5ca0c5cd-923a-410a-85fb-97c1716c97d3",
+    "date": "2024-07-02",
+    "quantity": 1.8,
+    "measureUnit": "kg"
+  },
+  {
+    "ingredientId": "9b77593e-792d-4e99-9040-d0718499b77b",
+    "date": "2024-07-03",
+    "quantity": 6.0,
+    "measureUnit": "g"
+  },
+  {
+    "ingredientId": "c388bb8c-08c1-4aee-9322-ea9e9fd2df2d",
+    "date": "2024-07-03",
+    "quantity": 3.0,
+    "measureUnit": "kg"
+  },
+  {
+    "ingredientId": "b405114e-8665-45ea-bd75-b6380167003c",
+    "date": "2024-07-03",
+    "quantity": 1.1,
+    "measureUnit": "kg"
+  },
+  {
+    "ingredientId": "5ba6c6c1-d2b2-4e11-b5ab-92ecd03ba6ea",
+    "date": "2024-07-03",
+    "quantity": 104.0,
+    "measureUnit": "g"
+  },
+  {
+    "ingredientId": "5ca0c5cd-923a-410a-85fb-97c1716c97d3",
+    "date": "2024-07-03",
+    "quantity": 1.1,
+    "measureUnit": "kg"
+  },
+  {
+    "ingredientId": "9b77593e-792d-4e99-9040-d0718499b77b",
+    "date": "2024-07-04",
+    "quantity": 6.0,
+    "measureUnit": "g"
+  },
+  {
+    "ingredientId": "c388bb8c-08c1-4aee-9322-ea9e9fd2df2d",
+    "date": "2024-07-04",
+    "quantity": 3.3,
+    "measureUnit": "kg"
+  },
+  {
+    "ingredientId": "b405114e-8665-45ea-bd75-b6380167003c",
+    "date": "2024-07-04",
+    "quantity": 1.1,
+    "measureUnit": "kg"
+  },
+  {
+    "ingredientId": "5ba6c6c1-d2b2-4e11-b5ab-92ecd03ba6ea",
+    "date": "2024-07-04",
+    "quantity": 111.0,
+    "measureUnit": "g"
+  },
+  {
+    "ingredientId": "5ca0c5cd-923a-410a-85fb-97c1716c97d3",
+    "date": "2024-07-04",
+    "quantity": 1.1,
+    "measureUnit": "kg"
+  },
+  {
+    "ingredientId": "9b77593e-792d-4e99-9040-d0718499b77b",
+    "date": "2024-07-05",
+    "quantity": 6.0,
+    "measureUnit": "g"
+  },
+  {
+    "ingredientId": "c388bb8c-08c1-4aee-9322-ea9e9fd2df2d",
+    "date": "2024-07-05",
+    "quantity": 3.5,
+    "measureUnit": "kg"
+  },
+  {
+    "ingredientId": "b405114e-8665-45ea-bd75-b6380167003c",
+    "date": "2024-07-05",
+    "quantity": 1.2,
+    "measureUnit": "kg"
+  },
+  {
+    "ingredientId": "5ba6c6c1-d2b2-4e11-b5ab-92ecd03ba6ea",
+    "date": "2024-07-05",
+    "quantity": 119.0,
+    "measureUnit": "g"
+  },
+  {
+    "ingredientId": "5ca0c5cd-923a-410a-85fb-97c1716c97d3",
+    "date": "2024-07-05",
+    "quantity": 1.2,
+    "measureUnit": "kg"
+  },
+  {
+    "ingredientId": "9b77593e-792d-4e99-9040-d0718499b77b",
+    "date": "2024-07-06",
+    "quantity": 9.0,
+    "measureUnit": "g"
+  },
+  {
+    "ingredientId": "c388bb8c-08c1-4aee-9322-ea9e9fd2df2d",
+    "date": "2024-07-06",
+    "quantity": 4.7,
+    "measureUnit": "kg"
+  },
+  {
+    "ingredientId": "b405114e-8665-45ea-bd75-b6380167003c",
+    "date": "2024-07-06",
+    "quantity": 1.6,
+    "measureUnit": "kg"
+  },
+  {
+    "ingredientId": "5ba6c6c1-d2b2-4e11-b5ab-92ecd03ba6ea",
+    "date": "2024-07-06",
+    "quantity": 156.0,
+    "measureUnit": "g"
+  },
+  {
+    "ingredientId": "5ca0c5cd-923a-410a-85fb-97c1716c97d3",
+    "date": "2024-07-06",
+    "quantity": 1.6,
+    "measureUnit": "kg"
+  },
+  {
+    "ingredientId": "9b77593e-792d-4e99-9040-d0718499b77b",
+    "date": "2024-07-07",
+    "quantity": 19.0,
+    "measureUnit": "g"
+  },
+  {
+    "ingredientId": "c388bb8c-08c1-4aee-9322-ea9e9fd2df2d",
+    "date": "2024-07-07",
+    "quantity": 10.5,
+    "measureUnit": "kg"
+  },
+  {
+    "ingredientId": "b405114e-8665-45ea-bd75-b6380167003c",
+    "date": "2024-07-07",
+    "quantity": 3.6,
+    "measureUnit": "kg"
+  },
+  {
+    "ingredientId": "5ba6c6c1-d2b2-4e11-b5ab-92ecd03ba6ea",
+    "date": "2024-07-07",
+    "quantity": 360.0,
+    "measureUnit": "g"
+  },
+  {
+    "ingredientId": "5ca0c5cd-923a-410a-85fb-97c1716c97d3",
+    "date": "2024-07-07",
+    "quantity": 3.7,
+    "measureUnit": "kg"
+  },
+  {
+    "ingredientId": "9b77593e-792d-4e99-9040-d0718499b77b",
+    "date": "2024-07-08",
+    "quantity": 22.0,
+    "measureUnit": "g"
+  },
+  {
+    "ingredientId": "c388bb8c-08c1-4aee-9322-ea9e9fd2df2d",
+    "date": "2024-07-08",
+    "quantity": 12.1,
+    "measureUnit": "kg"
+  },
+  {
+    "ingredientId": "b405114e-8665-45ea-bd75-b6380167003c",
+    "date": "2024-07-08",
+    "quantity": 4.1,
+    "measureUnit": "kg"
+  },
+  {
+    "ingredientId": "5ba6c6c1-d2b2-4e11-b5ab-92ecd03ba6ea",
+    "date": "2024-07-08",
+    "quantity": 414.0,
+    "measureUnit": "g"
+  },
+  {
+    "ingredientId": "5ca0c5cd-923a-410a-85fb-97c1716c97d3",
+    "date": "2024-07-08",
+    "quantity": 4.3,
+    "measureUnit": "kg"
+  },
+  {
+    "ingredientId": "9b77593e-792d-4e99-9040-d0718499b77b",
+    "date": "2024-07-09",
+    "quantity": 9.0,
+    "measureUnit": "g"
+  },
+  {
+    "ingredientId": "c388bb8c-08c1-4aee-9322-ea9e9fd2df2d",
+    "date": "2024-07-09",
+    "quantity": 5.1,
+    "measureUnit": "kg"
+  },
+  {
+    "ingredientId": "b405114e-8665-45ea-bd75-b6380167003c",
+    "date": "2024-07-09",
+    "quantity": 1.7,
+    "measureUnit": "kg"
+  },
+  {
+    "ingredientId": "5ba6c6c1-d2b2-4e11-b5ab-92ecd03ba6ea",
+    "date": "2024-07-09",
+    "quantity": 177.0,
+    "measureUnit": "g"
+  },
+  {
+    "ingredientId": "5ca0c5cd-923a-410a-85fb-97c1716c97d3",
+    "date": "2024-07-09",
+    "quantity": 1.8,
+    "measureUnit": "kg"
+  }
+]

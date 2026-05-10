@@ -1,0 +1,177 @@
+{
+  "title": "Encomendas",
+  "status": {
+    "Delivered": "Entregue",
+    "Pending": "Pendente",
+    "Canceled": "Cancelado"
+  },
+  "searchInput": "Pesquisar por número, fornecedor, ou custo total...",
+  "buttons": {
+    "register": "Nova Compra",
+    "filters": "Filtrar",
+    "export": "Exportar",
+    "downloadAsExcel": "Descarregar Excel",
+    "downloadAsCSV": "Descarregar CSV",
+    "submit": "Submeter",
+    "details": "Info",
+    "cancel": "Cancelar"
+  },
+  "tabsTitle": {
+    "all": "Todas",
+    "delivered": "Entregues",
+    "pending": "Pendentes",
+    "canceled": "Cancelados"
+  },
+  "tableHead": {
+    "number": "Número",
+    "supplier": "Fornecedor",
+    "status": "Estado",
+    "purchaseDate": "Data de Compra",
+    "expectedDate": "Data de Entrega Prevista",
+    "totalCost": "Custo total"
+  },
+  "filtersDrawer": {
+    "title": "Filtros",
+    "purchaseDate": "Data de Compra",
+    "expectedDate": "Data de Entrega Prevista",
+    "clear": "Limpar tudo",
+    "from": "De",
+    "until": "Até"
+  },
+  "noData": {
+    "notFound": {
+      "title": "Não encontrado.",
+      "problem": "Nenhum resultado encontrado para ",
+      "help": "Tente verificar se há erros de digitação ou usar palavras completas."
+    },
+    "empty": {
+      "title": "Lista de encomendas vazia.",
+      "problem": "Não existe registo de nenhuma encomenda."
+    }
+  },
+  "details": {
+    "title": "Encomenda",
+    "receiveBtt": "Receber",
+    "cancelBtt": "Cancelar",
+    "purchaseDate": "Data de Compra",
+    "expectedDate": "Data de Entrega Prevista",
+    "receptionDate": "Data de Entrega",
+    "supplierInfo": "Informação do Fornecedor",
+    "ingrsList": {
+      "title": "Lista de Ingredientes",
+      "ingr": "Ingrediente",
+      "isAccepted": "Aceite",
+      "lot": "Número de Lot",
+      "quantity": "Quantidade",
+      "pricePerKg": "Preço por Kg",
+      "cost": "Custo",
+      "total": "Total"
+    },
+
+    "cancelAlert": {
+      "title": "Confirmar Cancelamento da Encomenda?",
+      "subtitle": "Esta ação irá cancelar a encomenda ",
+      "action1": "Sim",
+      "action2": "Não",
+      "cancelSuccess": "Encomenda cancelada com sucesso !"
+    }
+  },
+  "new": {
+    "title": "Registar Nova Encomenda",
+    "number": "Número da Encomenda",
+    "status": "Estado",
+    "purchaseDate": "Data de Compra",
+    "expectedDate": "Data de Entrega Prevista",
+    "expectedTime": "Hora de Entrega Prevista",
+    "supplier": "Fornecedor",
+    "ingrsList": {
+      "title": "Lista de Ingredientes",
+      "ingr": "Ingrediente",
+      "quantity": "Quantidade",
+      "measureUnit": "Unidade de medida",
+      "pricePerKg": "Preço por Kg",
+      "cost": "Custo",
+      "delete": "Remover",
+      "success": "Nova encomenda adicionada!"
+    },
+    "addIngr": "Adicionar Ingrediente",
+    "total": "Total",
+    "warning": "Por favor, adicione pelo menos 1 ingrediente."
+  },
+  "reception": {
+    "title": "Receção da Encomenda",
+    "tablesHead": {
+      "task": "Tarefa",
+      "conform": "De Acordo",
+      "nonconform": "Não de Acordo",
+      "cantobserve": "Sem observação"
+    },
+    "step1": {
+      "title": "Verificação do Transporte",
+      "tableBody": {
+        "task1": {
+          "task": "Limpeza Geral",
+          "help": "Assegurar a deteção de água, poeiras e outros fatores de contaminação nas caixas de transporte. Além disso, verificar a ausência de riscos biológicos, como insectos e ratos."
+        },
+        "task2": {
+          "task": "Integridade estrutural",
+          "help": "Separação adequada entre produtos de características diferentes."
+        },
+        "task3": {
+          "task": "Controlo de temperatura",
+          "help": "Verificar se a temperatura dos ingredientes perecíveis se situa no intervalo de 0ºC a 5ºC."
+        }
+      }
+    },
+    "step2": {
+      "title": "Verificação dos alimentos",
+      "tableBody": {
+        "task1": {
+          "task": "Embalagem bem conservada",
+          "help": "Verificar se a embalagem está limpa, seca e sem deformações."
+        },
+        "task2": {
+          "task": "Características organolépticas adequadas",
+          "help": "Verificar a cor, a textura, o cheiro e o aspeto geral."
+        }
+      }
+    },
+    "step3": {
+      "title": "Confirmar Encomenda",
+      "ingredientDetails": "Informação dos ingredientes",
+
+      "actions": {
+        "add": "Adicionar",
+        "edit": "Editar",
+        "delete": "Eliminar"
+      },
+      "fields": {
+        "ingredient": "Ingrediente",
+        "supplier": "Fornecedor",
+        "receptionDate": "Data de Entrega",
+        "quantity": "Quantidade",
+        "lotnumber": "Número de Lote",
+        "expiryDate": "Data de expiração",
+        "expiryTime": "Hora de expiração"
+      },
+      "message": "Selecione um ingrediente da lista dos recebidos."
+    },
+    "missFields": {
+      "title": "Parametros Inválidos",
+      "subtitle": "Por favor, preencha todos os valores corretamente."
+    },
+    "confirmList": {
+      "title": "Confirmar lista de ingredientes ?",
+      "yes": "Sim",
+      "no": "No"
+    }
+  },
+  "alertCancel": {
+    "title": "Cancelar receção da encomenda?",
+    "content": "Esta ação irá cancelar a receção da encomenda."
+  },
+  "alertNonConform": {
+    "title": "Ingredientes Não-Conformes",
+    "content": "Foi detectado que os ingredientes não estão em conformidade com os regulamentos. Selecione os ingredientes que não estão em conformidade. Para os que estão em conformidade, pode preencher os campos para aceitar o ingrediente."
+  }
+}

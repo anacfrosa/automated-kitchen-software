@@ -1,0 +1,38 @@
+{
+  "title": "Settings",
+  "sidebar": {
+    "shop": "Shop",
+    "account": "Account"
+  },
+  "shop": {
+    "title": "Shop Settings",
+    "status": "Status",
+    "country": "Country",
+    "city": "City",
+    "address": "Address",
+    "totalDispensers": "Total Dispensers",
+    "dryDispensers": "Dry Dispensers",
+    "fridgeDispensers": "Fridge Dispensers"
+  },
+  "account": {
+    "title": "Account Settings",
+    "email": "Email",
+    "rolePurpose": "Role Purpose",
+    "roleRestrictions": "Role Restrictions",
+    "roleOptions": {
+      "admin": "Super Admin",
+      "handler": "Food Handler",
+      "manager": "Shop Manager"
+    },
+    "userRole": {
+      "handler": "Responsible for managing the ingredients in the kitchen’s inventory and dispensers.",
+      "manager": "Responsible for managing the purchases, ensuring the availability of ingredients, and maintaining supplier records.",
+      "admin": "Control and oversight over all aspects of the platform, ensuring security, user management, and system configuration."
+    },
+    "userRestrictions": {
+      "handler": "No access to reports, purchases and suppliers.",
+      "manager": "Cannot change anything in the inventory and dispensers.",
+      "admin": "No restrictions."
+    }
+  }
+}

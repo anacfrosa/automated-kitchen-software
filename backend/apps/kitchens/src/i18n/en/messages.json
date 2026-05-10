@@ -1,0 +1,39 @@
+{
+  "shops": {
+    "itemCreate": "A shop has been created successfully.",
+    "itemUpdate": "A shop has been updated successfully.",
+    "itemDelete": "A shop has been deleted successfully.",
+    "itemFound": "A shop was found with the given uuid: {id}",
+    "itemNotFound": "No shop was found with the given uuid: {id}",
+    "nameFound": "The name {name} already exists."
+  },
+  "dispensers": {
+    "itemCreate": "A dispenser has been created successfully.",
+    "itemUpdate": "A dispenser has been updated successfully.",
+    "itemDelete": "A dispenser has been deleted successfully.",
+    "itemFound": "A dispenser was found with the given uuid: {id}",
+    "itemNotFound": "No dispenser was found with the given uuid: {id}"
+  },
+  "inventory": {
+    "itemCreate": "An ingredient inventory has been created successfully.",
+    "itemUpdate": "A ingredient inventory has been updated successfully.",
+    "itemDelete": "A ingredient inventory has been deleted successfully.",
+    "itemFound": "A ingredient inventory was found with the given uuid: {id}",
+    "itemNotFound": "No ingredient inventory was found with the given uuid: {id}"
+  },
+  "wastage": {
+    "itemCreate": "A wastage has been created successfully.",
+    "itemUpdate": "A wastage has been updated successfully.",
+    "itemDelete": "A wastage has been deleted successfully.",
+    "itemFound": "A wastage was found with the given uuid: {id}",
+    "itemNotFound": "No wastage was found with the given uuid: {id}"
+  },
+  "forecasts": {
+    "itemCreate": "A forecast has been added successfully.",
+    "itemUpdate": "A forecast has been updated successfully.",
+    "itemDelete": "A forecast has been deleted successfully.",
+    "itemFound": "A forecast was found with the given uuid: {id}",
+    "itemNotFound": "No forecast was found with the given uuid: {id}"
+  },
+  "somethingWrong": "Something went wrong!"
+}

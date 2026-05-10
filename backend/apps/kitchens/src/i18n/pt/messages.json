@@ -1,0 +1,39 @@
+{
+  "shops": {
+    "itemCreate": "Uma Loja foi criada com sucesso.",
+    "itemUpdate": "Uma Loja foi atualizada com sucesso.",
+    "itemDelete": "Uma Loja foi removida com sucesso.",
+    "itemFound": "Uma Loja foi encontrada com o uuid: {id} fornecido",
+    "itemNotFound": "Nenhuma Loja foi encontrada com o uuid: {id} fornecido",
+    "nameFound": "O nome {name} já existe."
+  },
+  "dispensers": {
+    "itemCreate": "Um dispensador foi criado com sucesso.",
+    "itemUpdate": "Um dispensador foi atualizado com sucesso.",
+    "itemDelete": "Um dispensador foi removido com sucesso.",
+    "itemFound": "Um dispensador foi encontrado com o uuid: {id} fornecido",
+    "itemNotFound": "Nenhum dispensador foi encontrado com o uuid: {id} fornecido"
+  },
+  "inventory": {
+    "itemCreate": "Um ingredient do inventário foi criado com sucesso.",
+    "itemUpdate": "Um ingredient do inventário foi atualizado com sucesso.",
+    "itemDelete": "Um ingredient do inventário foi removido com sucesso.",
+    "itemFound": "Um ingredient do inventário foi encontrado com o uuid: {id} fornecido",
+    "itemNotFound": "Nenhum ingredient do inventário foi encontrado com o uuid: {id} fornecido"
+  },
+  "wastage": {
+    "itemCreate": "Desperdicio criado com sucesso.",
+    "itemUpdate": "Desperdicio atualizado com sucesso.",
+    "itemDelete": "Desperdicio removido com sucesso.",
+    "itemFound": "Desperdicio encontrado com o uuid: {id} fornecido",
+    "itemNotFound": "Nenhum desperdicio foi encontrado com o uuid: {id} fornecido"
+  },
+  "forecasts": {
+    "itemCreate": "Previsão adicionada com sucesso.",
+    "itemUpdate": "Previsão atualizada com sucesso.",
+    "itemDelete": "Previsão removida com sucesso.",
+    "itemFound": "Previsão encontrada com o uuid: {id} fornecido",
+    "itemNotFound": "Nenhum Previsão foi encontrado com o uuid: {id} fornecido"
+  },
+  "somethingWrong": "Algo deu errado!"
+}

@@ -1,0 +1,38 @@
+{
+  "title": "Configurações",
+  "sidebar": {
+    "shop": "Loja",
+    "account": "Conta"
+  },
+  "shop": {
+    "title": "Configurações da Loja",
+    "status": "Estado",
+    "country": "País",
+    "city": "Cidade",
+    "address": "Endereço",
+    "totalDispensers": "Total Dispensadores",
+    "dryDispensers": "Dispensadores à Temperatura Ambiente",
+    "fridgeDispensers": "Dispensadores no Frigorífico"
+  },
+  "account": {
+    "title": "Configurações da Conta",
+    "email": "Email",
+    "rolePurpose": "Objetivo da função",
+    "roleRestrictions": "Restrições",
+    "roleOptions": {
+      "admin": "Administrador",
+      "handler": "Manipulador de Alimentos",
+      "manager": "Gestor de Loja"
+    },
+    "userRole": {
+      "handler": "Responsável pela gestão dos ingredientes no inventário e nos dispensadores da cozinha.",
+      "manager": "Responsável pela gestão das compras, pela garantia da disponibilidade dos ingredientes e pela manutenção dos registos dos fornecedores.",
+      "admin": "Controlo e supervisão de todos os aspectos da plataforma, garantindo a segurança, a gestão dos utilizadores e a configuração do sistema."
+    },
+    "userRestrictions": {
+      "handler": "Sem acesso a relatórios, compras e fornecedores.",
+      "manager": "Não é possível alterar nada no inventário e nos dispensadores.",
+      "admin": "Sem restrições."
+    }
+  }
+}

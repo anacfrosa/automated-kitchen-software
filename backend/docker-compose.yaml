@@ -1,0 +1,140 @@
+version: '3.9'
+
+services:
+  database:
+    restart: always
+    container_name: 'database'
+    image: postgres:14-alpine
+    ports:
+      - '5432:5432'
+    volumes:
+      - postgres_data:/var/lib/postgresql/data/
+    env_file:
+      - ./.env.local
+    networks:
+      - local
+  redis:
+    restart: always
+    container_name: 'redis'
+    image: redis:6-alpine
+    command: /bin/sh -c 'redis-server --appendonly yes --requirepass $${REDIS_PASSWORD}'
+    expose:
+      - 6379
+    env_file:
+      - ./.env.local
+    networks:
+      - local
+  rabbitmq:
+    restart: always
+    container_name: rabbitmq
+    image: rabbitmq:3.12.1-management
+    env_file:
+      - ./.env.local
+    ports:
+      - '5672:5672'
+      - '15672:15672'
+    networks:
+      - local
+  adminbff:
+    restart: always
+    container_name: 'adminbff'
+    build:
+      context: .
+      dockerfile: ./apps/adminbff/Dockerfile
+      target: local
+    command: npm run start:dev adminbff
+    volumes:
+      - .:/usr/src/app
+      - /usr/src/app/node_modules
+    ports:
+      - '8080:8080'
+    env_file:
+      - ./.env.local
+    depends_on:
+      - database
+      - redis
+      - rabbitmq
+    networks:
+      - local
+  products:
+    restart: always
+    container_name: 'products'
+    build:
+      context: .
+      dockerfile: ./apps/products/Dockerfile
+      target: local
+    command: npm run start:dev products
+    volumes:
+      - .:/usr/src/app
+      - /usr/src/app/node_modules
+    env_file:
+      - ./.env.local
+    depends_on:
+      - database
+      - redis
+      - rabbitmq
+    networks:
+      - local
+  kitchens:
+    restart: always
+    container_name: 'kitchens'
+    build:
+      context: .
+      dockerfile: ./apps/kitchens/Dockerfile
+      target: local
+    command: npm run start:dev kitchens
+    volumes:
+      - .:/usr/src/app
+      - /usr/src/app/node_modules
+    env_file:
+      - ./.env.local
+    depends_on:
+      - database
+      - redis
+      - rabbitmq
+    networks:
+      - local
+  suppliers:
+    restart: always
+    container_name: 'suppliers'
+    build:
+      context: .
+      dockerfile: ./apps/suppliers/Dockerfile
+      target: local
+    command: npm run start:dev suppliers
+    volumes:
+      - .:/usr/src/app
+      - /usr/src/app/node_modules
+    env_file:
+      - ./.env.local
+    depends_on:
+      - database
+      - redis
+      - rabbitmq
+    networks:
+      - local
+  notifications:
+    restart: always
+    container_name: 'notifications'
+    build:
+      context: .
+      dockerfile: ./apps/notifications/Dockerfile
+      target: local
+    command: npm run start:dev notifications
+    volumes:
+      - .:/usr/src/app
+      - /usr/src/app/node_modules
+    env_file:
+      - ./.env.local
+    depends_on:
+      - database
+      - redis
+      - rabbitmq
+    networks:
+      - local
+volumes:
+  postgres_data: {}
+
+networks:
+  local:
+    driver: bridge

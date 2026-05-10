@@ -1,0 +1,21 @@
+{
+  "title": "Gestão da Manutenção",
+  "optionCard": {
+    "storage": {
+      "title": "Gestão do armazenamento",
+      "subtitle": "Armazenamento de Ingredientes"
+    },
+    "cooking": {
+      "title": "Gestão de refeições",
+      "subtitle": "Confeção"
+    },
+    "cleaning": {
+      "title": "Gestão dos processos de limpeza",
+      "subtitle": "Limpeza"
+    },
+    "equipment": {
+      "title": "Gestão dos equipamentos",
+      "subtitle": "Equipamentos"
+    }
+  }
+}

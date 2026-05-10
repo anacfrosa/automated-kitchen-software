@@ -1,0 +1,146 @@
+{
+  "title": "Inventário",
+  "searchInput": "Procurar pelo nome do ingrediente...",
+  "buttons": {
+    "newInventory": "Adicionar",
+    "filters": "Filtrar",
+    "export": "Exportar",
+    "downloadAsExcel": "Descarregar Excel",
+    "downloadAsCSV": "Descarregar CSV",
+    "details": "Info",
+    "cancel": "Cancelar",
+    "yes": "Sim",
+    "no": "Não"
+  },
+  "tableHead": {
+    "ingredient": "Ingrediente",
+    "lotNumber": "Número de Lot",
+    "quantity": "Quantidade",
+    "receptionDate": "Data de Entrega",
+    "expiryDate": "Data de Expiração",
+    "location": "Armazenamento"
+  },
+  "filtersDrawer": {
+    "title": "Filtros",
+    "lot": "Número de Lot",
+    "receptionDate": "Data de Receção",
+    "expiryDate": "Data de Expiração",
+    "clear": "Limpar tudo",
+    "from": "De",
+    "until": "Até"
+  },
+  "new": {
+    "title": "Novo Inventário",
+    "step1": "Verificação do Transporte",
+    "step2": "Verificação dos Alimentos",
+    "step3": {
+      "title": "Adicionar Alimentos",
+      "list": "Lista de Ingredientes",
+      "form": {
+        "title": "Detalhes do Ingrediente",
+        "recDate": "Data de Receção",
+        "lot": "Número de Lot",
+        "qty": "Quantidade",
+        "expiryDate": "Data de Expiração",
+        "expiryTime": "Tempo de Expiração",
+        "add": "Adicionar",
+        "edit": "Editar",
+        "remove": "Remover",
+        "new": "Novo Ingrediente"
+      }
+    }
+  },
+  "info": {
+    "title": "Informação do Inventário",
+    "removeBttn": "Remover",
+    "ingredient": "Ingrediente",
+    "form": "Forma",
+    "supplier": "Fornecedor",
+    "lot": "Número de Lot",
+    "available": "Quantidade Disponível",
+    "primaryDate": "Data de expiração",
+    "recDate": "Data de Receção",
+    "temperature": "Temperatura",
+    "humidity": "Humidade",
+    "dispCard": {
+      "title": "Informação Dispensadores",
+      "addbttn": "Adicionar Disp.",
+      "refillbttn": "Reabastecer Dispensador",
+      "cleanbttn": "Limpar Dispensador",
+      "empty": "Este inventário não está em nenhum dispensador de momento.",
+      "number": "Número",
+      "storage": "Local",
+      "qty": "Quantidade",
+      "secExpiryDate": "Data de Expiração Secundária"
+    }
+  },
+  "remove": {
+    "title": "Remoção do Inventário",
+    "removebttn": "Remover",
+    "ingredient": "Ingrediente",
+    "lot": "Número de Lot",
+    "form": "Forma",
+    "available": "Quantidade Disponível",
+    "recDate": "Data de Receção",
+    "expiryDate": "Data de Expiração",
+    "qtyToRemove": "Quantidade a ser removida",
+    "qtyLabel": "Quantidade",
+    "reason": {
+      "title": "Motivo de remoção",
+      "reason1": "Remoção de ingrediente da lista de receitas.",
+      "reason2": "Remoção do ingrediente por não conformidade com a regulamentação sanitária.",
+      "reason3": "Remoção por ter ultrapassado o prazo de validade.",
+      "reason4": "Outros motivos.",
+      "placeholder": "Insira outros motivos..."
+    }
+  },
+  "noData": {
+    "notFound": {
+      "title": "Não encontrado.",
+      "problem": "Nenhum resultado encontrado para ",
+      "help": "Tente verificar se há erros de digitação ou usar palavras completas."
+    },
+    "empty": {
+      "title": "Lista do inventário vazia.",
+      "problem": "Não existe registo de nenhum inventário."
+    }
+  },
+  "alerts": {
+    "newInventory": "Novo inventário adicionado com sucesso.",
+    "unauthorized": {
+      "title": "Não Autorizado",
+      "content": "Não tem autorização para aceder a esta área."
+    },
+    "alertCancel": {
+      "title": "Cancelar adição de novo inventário ?",
+      "content": "Esta ação irá cancelar o processo da adição do novo inventário."
+    },
+    "listEmpty": {
+      "title": "Lista de Ingredientes Vazia.",
+      "content": "Por favor, adicione os ingredientes."
+    },
+    "confirmInv": "Confirmar inventário?",
+    "nonconform": {
+      "title": "Ingredientes Inválidos",
+      "content": "Foi detectado que os ingredientes não estão em conformidade com os regulamentos. Selecione os ingredientes que não estão em conformidade. Para os que estão em conformidade, pode preencher os campos para aceitar o ingrediente."
+    },
+    "nofreedisp": {
+      "title": "Dispensadores Indisponíveis.",
+      "content": "Não existem dispensadores livres."
+    },
+    "noqty": {
+      "title": "Quantidade não disponível.",
+      "content": "Não existem quantidade disponível para este lot."
+    },
+    "confirmremove": {
+      "title": "Confirmar remoção do inventário?",
+      "content1": "Esta ação irá remover ",
+      "content2": " do inventário de ",
+      "content3": "."
+    },
+    "invalidremove": {
+      "title": "Campos de remoção inválidos",
+      "content": "O campo de remoção tem de ser válido!"
+    }
+  }
+}

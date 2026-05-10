@@ -1,0 +1,45 @@
+{
+  "title": "Suppliers",
+  "searchInput": "Search by name, contact, or email...",
+  "buttons": {
+    "register": "Register",
+    "export": "Export",
+    "downloadAsExcel": "Download as Excel",
+    "downloadAsCSV": "Download as CSV",
+    "submit": "Submit"
+  },
+  "tableHead": {
+    "supplier": "Supplier",
+    "contact": "Phone Number",
+    "email": "Email",
+    "location": "Location",
+    "address": "Address",
+    "website": "Website"
+  },
+  "tooltip": { "email": "Send Email", "edit": "Edit Supplier" },
+  "noData": {
+    "notFound": {
+      "title": "Not Found.",
+      "problem": "No results found for",
+      "help": "Try checking for typos or using complete words."
+    },
+    "empty": {
+      "title": "Empty supplier list.",
+      "problem": "There is no record of any supplier."
+    }
+  },
+  "fields": {
+    "name": "Name",
+    "country": "Country",
+    "zipcode": "Zip Code",
+    "phone": "Phone Number",
+    "city": "City",
+    "email": "Email",
+    "address": "Address",
+    "website": "Website"
+  },
+  "createTitle": "Create new supplier",
+  "editTitle": "Edit Supplier",
+  "createSuccess": "Supplier created successfully !",
+  "editSucces": "Supplier edited successfully"
+}

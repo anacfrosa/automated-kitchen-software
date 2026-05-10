@@ -1,0 +1,146 @@
+{
+  "title": "Inventory",
+  "searchInput": "Search by ingredient name...",
+  "buttons": {
+    "newInventory": "New Inventory",
+    "filters": "Filter",
+    "export": "Export",
+    "downloadAsExcel": "Download Excel",
+    "downloadAsCSV": "Download CSV",
+    "details": "Details",
+    "cancel": "Cancelar",
+    "yes": "Yes",
+    "no": "No"
+  },
+  "tableHead": {
+    "ingredient": "Ingredient",
+    "lotNumber": "Lot Number",
+    "quantity": "Quantity",
+    "receptionDate": "Reception Date",
+    "expiryDate": "Expiry Date",
+    "location": "Storage"
+  },
+  "filtersDrawer": {
+    "title": "Filters",
+    "lot": "Lot Number",
+    "receptionDate": "Reception Date",
+    "expiryDate": "Expiry Date",
+    "clear": "Clear all",
+    "from": "From",
+    "until": "Until"
+  },
+  "new": {
+    "title": "New Inventory",
+    "step1": "Transport Check",
+    "step2": "Food Check",
+    "step3": {
+      "title": "Insert Ingredients",
+      "list": "Ingredient List",
+      "form": {
+        "title": "Ingredient Details",
+        "recDate": "Reception Date",
+        "lot": "Lot Number",
+        "qty": "Quantity",
+        "expiryDate": "Expiry Date",
+        "expiryTime": "Expiry Time",
+        "add": "Add to list",
+        "edit": "Edit",
+        "remove": "Remove",
+        "new": "New Ingredient"
+      }
+    }
+  },
+  "info": {
+    "title": "Inventory Information",
+    "removeBttn": "Remove",
+    "ingredient": "Ingredient",
+    "form": "Form",
+    "supplier": "Supplier",
+    "lot": "Lot Number",
+    "available": "Quantity Available",
+    "primaryDate": "Expiry Date",
+    "recDate": "Reception Date",
+    "temperature": "Temperature",
+    "humidity": "Humidity",
+    "dispCard": {
+      "title": "Dispensers Information",
+      "addbttn": "Add to dispenser",
+      "refillbttn": "Refill Dispenser",
+      "cleanbttn": "Clean Dispenser",
+      "empty": "The inventory is not in any dispenser.",
+      "number": "Number",
+      "storage": "Storage",
+      "qty": "Quantity",
+      "secExpiryDate": "Secondary Expiry Date"
+    }
+  },
+  "remove": {
+    "title": "Remove Inventory",
+    "removebttn": "Remove",
+    "ingredient": "Ingredient",
+    "lot": "Lot Number",
+    "form": "Form",
+    "available": "Quantity Available",
+    "recDate": "Reception Date",
+    "expiryDate": "Expiry Date",
+    "qtyToRemove": "Quantity to remove",
+    "qtyLabel": "Quantity",
+    "reason": {
+      "title": "Removal reason",
+      "reason1": "Removal of ingredient from recipes line-up.",
+      "reason2": "Removal of ingredient for non-conformity to health regulations.",
+      "reason3": "Removal for surpassed expiry date.",
+      "reason4": "Other reasons.",
+      "placeholder": "Enter other reasons..."
+    }
+  },
+  "noData": {
+    "notFound": {
+      "title": "Não encontrado.",
+      "problem": "Nenhum resultado encontrado para ",
+      "help": "Tente verificar se há erros de digitação ou usar palavras completas."
+    },
+    "empty": {
+      "title": "Empty inventory list.",
+      "problem": "There is no record of any inventory."
+    }
+  },
+  "alerts": {
+    "newInventory": "New inventory inserted successfully.",
+    "unauthorized": {
+      "title": "Unauthorized",
+      "content": "You are not allowed to access this area."
+    },
+    "alertCancel": {
+      "title": "Cancel New Inventory Process ?",
+      "content": "This will cancel the new inventory process."
+    },
+    "listEmpty": {
+      "title": "Ingredients List Empty",
+      "content": "Please, add the ingredients to the list."
+    },
+    "confirmInv": "Confirm inventory?",
+    "nonconform": {
+      "title": "Non-Conformity ingredients",
+      "content": "It was detected that ingredients are not within regulations. Please select the ingredients that are not in conformity. For those that are conform, you can fill the fields to accept the ingredient."
+    },
+    "nofreedisp": {
+      "title": "No free dispensers.",
+      "content": "There are no dispensers available."
+    },
+    "noqty": {
+      "title": "No available quantity.",
+      "content": "There is no quantity available for this lot."
+    },
+    "confirmremove": {
+      "title": "Confirm remove from inventory?",
+      "content1": "This will remove ",
+      "content2": " from ",
+      "content3": " inventory."
+    },
+    "invalidremove": {
+      "title": "Invalid Remove Field",
+      "content": "The remove field needs to be a valid field !"
+    }
+  }
+}

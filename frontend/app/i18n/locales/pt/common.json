@@ -1,0 +1,64 @@
+{
+  "home": {
+    "title": "Software Inteligente de Suporte a Cozinhas Automatizadas",
+    "signIn": "Iniciar Sessão",
+    "logIn": "Entrar",
+    "role": "Função",
+    "roleOptions": {
+      "admin": "Administrador",
+      "handler": "Manipulador de Alimentos",
+      "manager": "Gestor de Loja"
+    }
+  },
+  "buttons": {
+    "export": "Exportar",
+    "downloadAsExcel": "Descarregar como Excel",
+    "downloadAsCSV": "Descarregar como CSV",
+    "cancel": "Cancelar",
+    "submit": "Submeter",
+    "next": "Seguinte",
+    "back": "Voltar",
+    "yes": "Sim",
+    "no": "Não"
+  },
+  "sidebarLinks": {
+    "dashboard": "Painel",
+    "maintenance": "Manutenção",
+    "reports": "Relatórios",
+    "audit": "Auditoria",
+    "account": "Conta",
+    "settings": "Definições"
+  },
+  "navbarTitles": {
+    "inventory": "Inventário",
+    "dispensers": "Dispensadores",
+    "purchases": "Encomendas",
+    "suppliers": "Fornecedores"
+  },
+  "navbarLinks": {
+    "dashboard": "Painel",
+    "maintenance": "Gestão da Manutenção",
+    "reports": "Relatórios históricos",
+    "settings": "Definições",
+    "storage": "Armazenamento",
+    "ingredients": "Ingredientes"
+  },
+  "inputs": {
+    "supplier": "Fornecedor",
+    "ingredient": "Ingrediente",
+    "measureUnit": "Unidade de Medida"
+  },
+  "alertReception": {
+    "title": "Parametros de verificação em falta.",
+    "subtitle": "Necessário verificar primeiros todos os parametros da validação do Transporte/Alimentos."
+  },
+  "titles": {
+    "ingredients": "Ingredientes Recebidos",
+    "accepted": "Aceite",
+    "nonAccepted": "Não Aceite"
+  },
+  "unauthorized": {
+    "title": "Não Autorizado",
+    "content": "Não tem autorização para aceder a esta área."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Dashboard",
+  "selectShop": "Choose a shop",
+  "currentDate": "Date:",
+  "shopShortcut": {
+    "title": "Shop",
+    "subtitle": "Settings"
+  },
+  "storageShortcut": {
+    "title": "Maintenance",
+    "subtitle": "Storage"
+  },
+  "suggestions": "Supply Suggestions",
+  "forecastDate": "Forecast Date",
+  "noNotifications": "There are no suggestions for this date."
+}

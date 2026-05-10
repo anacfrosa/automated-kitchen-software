@@ -1,0 +1,33 @@
+{
+  "title": "Relatórios",
+  "optionCard": {
+    "ingredients": {
+      "title": "Relatório dos Ingredientes",
+      "subtitle": "Ingredientes"
+    },
+    "temperature": {
+      "title": "Relatório das Temperaturas",
+      "subtitle": "Temperatura"
+    },
+    "water": {
+      "title": "Relatório Água",
+      "subtitle": "Água"
+    },
+    "incidents": {
+      "title": "Relatório dos Incidentes",
+      "subtitle": "Incidentes"
+    }
+  },
+  "ingrReports": "Relatório dos Ingredientes",
+  "buttons": {
+    "wastage": "Desperdícios",
+    "consumption": "Consumos"
+  },
+  "plots": {
+    "consumption": "Consumo dos Ingredientes",
+    "wastage": "Desperdício dos Ingredientes"
+  },
+  "datePicker": "Selecionar mês e ano",
+  "xAxis": "Dia do mês",
+  "yAxis": "Unidade de Medida (Kg)"
+}

@@ -1,0 +1,494 @@
+Recipe,Ingredient,Quantity,Serving
+gobi manchurian,cauliflower,588.0,3.0
+gobi manchurian,spring onion,25.0,3.0
+gobi manchurian,ginger root,4.53,3.0
+gobi manchurian,garlic,2.8,3.0
+gobi manchurian,corn flour,21.74,3.0
+gobi manchurian,all purpose flour,31.34,3.0
+gobi manchurian,red chili powder,0.7,3.0
+gobi manchurian,dried red chilies,1.0,3.0
+gobi manchurian,oil,40.82,3.0
+gobi manchurian,water,354.88,3.0
+gobi manchurian,milk,15.38,3.0
+flatbread,dry yeast,49.56,6.0
+flatbread,warm water,224.76,6.0
+flatbread,sugar,25.14,6.0
+flatbread,whole wheat flour,120.66,6.0
+flatbread,all purpose flour,313.48,6.0
+flatbread,salt,16.42,6.0
+flatbread,water,9.85,6.0
+flatbread,olive oil,53.82,6.0
+sarson ka saag,mustard greens,750.0,4.0
+sarson ka saag,spinach,250.0,4.0
+sarson ka saag,ginger root,6.8,4.0
+sarson ka saag,whole green chilies,24.0,4.0
+sarson ka saag,salt,6.92,4.0
+sarson ka saag,oil,27.21,4.0
+sarson ka saag,red chile,6.0,4.0
+sarson ka saag,green onion,10.0,4.0
+sarson ka saag,coriander leaves,2.07,4.0
+curry vindaloo,chicken,680.38,4.0
+curry vindaloo,green chilies,32.0,4.0
+curry vindaloo,garlic,24.0,4.0
+curry vindaloo,fresh ginger root,28.34,4.0
+curry vindaloo,cayenne pepper,5.32,4.0
+curry vindaloo,salt,6.92,4.0
+curry vindaloo,vinegar,238.96,4.0
+curry vindaloo,onion,140.0,4.0
+curry vindaloo,cumin,2.07,4.0
+curry vindaloo,coriander seed,1.72,4.0
+curry vindaloo,black peppercorns,3.99,4.0
+curry vindaloo,tomato puree,47.03,4.0
+curry vindaloo,sugar,8.37,4.0
+curry vindaloo,brandy,10.94,4.0
+curry vindaloo,tomato,182.0,4.0
+curry vindaloo,chili pepper,960.0,4.0
+garlic naan,bread flour,361.98,6.0
+garlic naan,yeast,7.08,6.0
+garlic naan,warm water,224.76,6.0
+garlic naan,sugar,50.27,6.0
+garlic naan,salt,5.46,6.0
+garlic naan,egg,38.0,6.0
+garlic naan,nonfat milk,12.42,6.0
+garlic naan,garlic clove,1.0,6.0
+garlic naan,extra virgin olive oil,107.64,6.0
+naan,bread flour,482.64,4.0
+naan,oil,27.21,4.0
+naan,low-fat plain yogurt,56.79,4.0
+naan,dry yeast,11.98,4.0
+naan,salt,8.2,4.0
+naan,sugar,12.57,4.0
+naan,sesame seed,15.97,4.0
+spicy chicken wings,chili powder,15.97,6.0
+spicy chicken wings,paprika,13.61,6.0
+spicy chicken wings,garlic powder,9.47,6.0
+spicy chicken wings,salt,5.46,6.0
+spicy chicken wings,cayenne pepper,0.89,6.0
+spicy chicken wings,ground cumin,1.03,6.0
+spicy chicken wings,ground clove,0.54,6.0
+spicy chicken wings,chicken wing,1224.0,6.0
+chicken triangles,chicken breast,378.0,12.0
+chicken triangles,cream cheese,340.19,12.0
+chicken triangles,green onion,18.19,12.0
+chicken triangles,garlic clove,2.0,12.0
+chicken triangles,ground cumin,2.07,12.0
+chicken triangles,chili powder,2.66,12.0
+chicken triangles,monterey jack cheese,166.79,12.0
+chicken triangles,salt,0.28,12.0
+chicken triangles,pepper,0.1,12.0
+chicken triangles,pita bread,360.0,12.0
+chicken korma,chicken,1360.77,6.0
+chicken korma,salt,15.04,6.0
+chicken korma,yogurt,123.02,6.0
+chicken korma,water,118.29,6.0
+chicken korma,onion flakes,56.78,6.0
+chicken korma,butter,107.64,6.0
+chicken korma,ground clove,4.33,6.0
+chicken korma,pepper,4.14,6.0
+chicken korma,cardamom,1.97,6.0
+chicken korma,cinnamon stick,1.3,6.0
+chicken korma,bay leaf,0.4,6.0
+chicken korma,ground turmeric,3.05,6.0
+chicken korma,garlic powder,2.36,6.0
+chicken korma,coriander powder,6.06,6.0
+chicken korma,ground ginger root,1.29,6.0
+chicken korma,ground cumin,2.07,6.0
+chicken korma,cayenne pepper,0.89,6.0
+chicken korma,tomato puree,125.39,6.0
+chicken korma,water,236.59,6.0
+chicken korma,cauliflower,564.33,6.0
+chicken biryani,butter,13.46,4.0
+chicken biryani,onion,144.32,4.0
+chicken biryani,fresh ginger root,6.8,4.0
+chicken biryani,garlic clove,3.0,4.0
+chicken biryani,ground cumin,2.07,4.0
+chicken biryani,ground allspice,0.98,4.0
+chicken biryani,saffron,0.2,4.0
+chicken biryani,ground cardamom,0.5,4.0
+chicken biryani,chopped tomato,125.39,4.0
+chicken biryani,raisin,78.07,4.0
+chicken biryani,serrano pepper,6.1,4.0
+chicken biryani,chicken thighs,680.38,4.0
+chicken biryani,lime juice,30.76,4.0
+chicken biryani,salt,2.73,4.0
+chicken biryani,basmati rice,184.54,4.0
+chicken biryani,water,473.18,4.0
+chicken biryani,fresh cilantro,4.14,4.0
+onion kulcha,dry yeast,11.98,4.0
+onion kulcha,sugar,4.18,4.0
+onion kulcha,warm water,112.38,4.0
+onion kulcha,egg,50.0,4.0
+onion kulcha,low-fat plain yogurt,113.56,4.0
+onion kulcha,milk,123.02,4.0
+onion kulcha,all purpose flour,501.57,4.0
+onion kulcha,unsalted butter,56.2,4.0
+onion kulcha,salt,6.92,4.0
+onion kulcha,all purpose flour,125.39,4.0
+onion kulcha,water,118.29,4.0
+onion kulcha,butter,26.92,4.0
+onion kulcha,chat masala,2.56,4.0
+onion kulcha,onion,216.48,4.0
+onion kulcha,cilantro,4.14,4.0
+chicken tikka masala,chicken breast,453.59,4.0
+chicken tikka masala,mixed herbs,12.13,4.0
+chicken tikka masala,cayenne pepper powder,2.71,4.0
+chicken tikka masala,plain yogurt,226.79,4.0
+chicken tikka masala,lemon juice,15.09,4.0
+chicken tikka masala,olive oil,13.46,4.0
+chicken tikka masala,butter,113.39,4.0
+chicken tikka masala,ketchup,31.95,4.0
+chicken tikka masala,honey,21.15,4.0
+chicken tikka masala,onion,36.08,4.0
+chicken tikka masala,tomato,41.4,4.0
+chicken tikka masala,cream,119.47,4.0
+gulab jamun,sugar,301.65,20.0
+gulab jamun,water,236.59,20.0
+gulab jamun,condensed milk,226.79,20.0
+gulab jamun,cream of wheat,43.78,20.0
+gulab jamun,baking powder,18.33,20.0
+gulab jamun,flour,376.18,20.0
+gulab jamun,ghee,25.73,20.0
+gulab jamun,egg,76.0,20.0
+gulab jamun,cardamom,1.97,20.0
+malpua,sugar,402.2,6.0
+malpua,water,236.59,6.0
+malpua,milk,369.08,6.0
+malpua,flour,125.39,6.0
+malpua,dry milk,66.25,6.0
+malpua,anise seed,2.16,6.0
+malpua,almonds,8.62,6.0
+vegetable samosa,all purpose flour,226.79,5.0
+vegetable samosa,cooking oil,54.43,5.0
+vegetable samosa,salt,2.73,5.0
+vegetable samosa,water,288.4,5.0
+vegetable samosa,potato,1476.0,5.0
+vegetable samosa,frozen peas,141.74,5.0
+vegetable samosa,oil,40.82,5.0
+vegetable samosa,cumin,2.07,5.0
+vegetable samosa,asafoetida powder,0.78,5.0
+vegetable samosa,ginger root,12.0,5.0
+vegetable samosa,green chilies,8.0,5.0
+vegetable samosa,curry powder,4.14,5.0
+vegetable samosa,coriander powder,2.02,5.0
+vegetable samosa,chili powder,1.33,5.0
+vegetable samosa,lemon juice,15.09,5.0
+vegetable samosa,cumin seed,2.07,5.0
+vegetable samosa,garam masala,2.41,5.0
+vegetable samosa,salt,8.2,5.0
+vegetable samosa,cilantro,15.0,5.0
+chaat papri,refined flour,100.0,4.0
+chaat papri,semolina,10.0,4.0
+chaat papri,salt,6.92,4.0
+chaat papri,baking powder,0.77,4.0
+chaat papri,oil,13.61,4.0
+chaat papri,potato,149.05,4.0
+chaat papri,chickpeas,260.25,4.0
+chaat papri,tamarind chutney,150.0,4.0
+chaat papri,chutney,60.0,4.0
+chaat papri,low-fat yogurt,25500.0,4.0
+chaat papri,chat masala,2.56,4.0
+baingan bartha,eggplant,220.0,4.0
+baingan bartha,onion,70.0,4.0
+baingan bartha,onion,160.0,4.0
+baingan bartha,tomato,123.0,4.0
+baingan bartha,peas,144.32,4.0
+baingan bartha,turmeric powder,1.01,4.0
+baingan bartha,chili powder,2.66,4.0
+baingan bartha,green chilies,8.0,4.0
+baingan bartha,garam masala powder,1.3,4.0
+baingan bartha,coriander powder,1.01,4.0
+baingan bartha,cumin powder,1.01,4.0
+baingan bartha,ginger garlic paste,15.97,4.0
+baingan bartha,salt,6.92,4.0
+baingan bartha,ghee,8.96,4.0
+baingan bartha,cream,44.81,4.0
+baingan bartha,coriander leaves,2.08,4.0
+malai kofta curry,raisin,39.03,4.0
+malai kofta curry,coriander powder,2.02,4.0
+malai kofta curry,turmeric powder,2.02,4.0
+malai kofta curry,salt,6.92,4.0
+malai kofta curry,tomato puree,125.39,4.0
+malai kofta curry,red chili powder,2.8,4.0
+malai kofta curry,mawa,153.78,4.0
+malai kofta curry,fresh cream,113.56,4.0
+malai kofta curry,garam masala powder,2.6,4.0
+malai kofta curry,gravy,14.5,4.0
+malai kofta curry,onion,330.0,4.0
+malai kofta curry,oil,40.82,4.0
+malai kofta curry,ginger root paste,19.97,4.0
+malai kofta curry,garlic paste,14.05,4.0
+malai kofta curry,green chilies,8.0,4.0
+malai kofta curry,potato,852.0,4.0
+malai kofta curry,cottage cheese,100.0,4.0
+malai kofta curry,green chilies,8.0,4.0
+malai kofta curry,corn flour,28.98,4.0
+malai kofta curry,salt,6.92,4.0
+chicken saag,frozen spinach,453.59,4.0
+chicken saag,onion,70.0,4.0
+chicken saag,fresh ginger root,2.0,4.0
+chicken saag,garlic clove,2.0,4.0
+chicken saag,fresh green chile,4.0,4.0
+chicken saag,black peppercorns,1.0,4.0
+chicken saag,tomato,364.0,4.0
+chicken saag,curry powder,12.42,4.0
+chicken saag,cayenne pepper,1.77,4.0
+chicken saag,vegetable oil,27.21,4.0
+chicken saag,bay leaf,0.4,4.0
+chicken saag,chicken,453.59,4.0
+chicken saag,cream,119.47,4.0
+rice,basmati rice,184.54,4.0
+rice,chicken broth,88702.68,4.0
+rice,lentil and vegetable soup,119064.0,4.0
+rice,hot water,224.76,4.0
+tandoori roti,whole wheat flour,241.32,4.0
+tandoori roti,all purpose flour,31.34,4.0
+tandoori roti,baking soda,2.29,4.0
+tandoori roti,ghee,25.73,4.0
+tandoori roti,yogurt,30.76,4.0
+tandoori roti,salt,6.92,4.0
+tandoori roti,warm water,140.48,4.0
+carrot halwa,carrot,1000.0,18.0
+carrot halwa,milk,1560.0,18.0
+carrot halwa,sugar,400.0,18.0
+carrot halwa,cardamom powder,2.0,18.0
+carrot halwa,saffron,1.5,18.0
+carrot halwa,food coloring,0.12,18.0
+carrot halwa,ghee,12.87,18.0
+kadhai paneer,panir,421.13,4.0
+kadhai paneer,green chilies,12.0,4.0
+kadhai paneer,onion,144.32,4.0
+kadhai paneer,garlic paste,4.67,4.0
+kadhai paneer,ginger root paste,6.64,4.0
+kadhai paneer,curds,113.56,4.0
+kadhai paneer,oil,54.41,4.0
+kadhai paneer,cumin seed,4.14,4.0
+kadhai paneer,bay leaf,0.4,4.0
+kadhai paneer,turmeric,1.53,4.0
+kadhai paneer,salt,16.42,4.0
+kadhai paneer,garam masala,1.21,4.0
+kadhai paneer,dry red pepper,1.35,4.0
+kadhai paneer,coriander seed,5.18,4.0
+kadhai paneer,coriander leaves,1.04,4.0
+lamb karahi,boneless lamb,566.99,4.0
+lamb karahi,oil,3.8,4.0
+lamb karahi,ginger root paste,39.93,4.0
+lamb karahi,tomato,455.0,4.0
+lamb karahi,salt,10.99,4.0
+lamb karahi,chili flakes,5.32,4.0
+lamb karahi,boiling water,990.0,4.0
+lamb karahi,fresh ginger root,20.41,4.0
+lamb karahi,green chilies,30.17,4.0
+lamb karahi,coriander leaves,3.11,4.0
+aloo paratha,flour,250.79,6.0
+aloo paratha,water,118.29,6.0
+aloo paratha,salt,0.28,6.0
+aloo paratha,oil,13.61,6.0
+aloo paratha,potato,426.0,6.0
+aloo paratha,salt,1.37,6.0
+aloo paratha,mustard seed,1.06,6.0
+aloo paratha,onion,70.0,6.0
+aloo paratha,turmeric powder,2.02,6.0
+aloo paratha,green chili pepper,8.0,6.0
+aloo paratha,cilantro,2.07,6.0
+aloo paratha,flour,31.34,6.0
+aloo paratha,oil,27.21,6.0
+rasmalai,whole milk,520.0,4.0
+rasmalai,sugar,100.0,4.0
+rasmalai,green cardamoms,0.6,4.0
+rasmalai,pistachios,25.0,4.0
+rasmalai,saffron,0.2,4.0
+rasmalai,milk,15.6,4.0
+rasmalai,milk,2080.0,4.0
+rasmalai,lime juice,15.38,4.0
+rasmalai,water,800.0,4.0
+rasmalai,sugar,900.0,4.0
+rasmalai,flour,20.0,4.0
+rasmalai,baking powder,3.43,4.0
+vegetable pakora,green chili,4.0,2.0
+vegetable pakora,cilantro,1.04,2.0
+vegetable pakora,potato,170.0,2.0
+vegetable pakora,cauliflower,265.0,2.0
+vegetable pakora,spinach leaves,28.39,2.0
+vegetable pakora,onion,216.48,2.0
+vegetable pakora,chickpea flour,92.27,2.0
+vegetable pakora,oil,27.21,2.0
+vegetable pakora,ground cumin,2.07,2.0
+vegetable pakora,salt,8.2,2.0
+vegetable pakora,water,118.29,2.0
+hara bhara kebabs,channa dal,25.44,2.0
+hara bhara kebabs,fresh ginger root,2.0,2.0
+hara bhara kebabs,garlic clove,2.0,2.0
+hara bhara kebabs,green chilies,8.0,2.0
+hara bhara kebabs,spinach,15.38,2.0
+hara bhara kebabs,green peas,36.08,2.0
+hara bhara kebabs,low-fat panir,52.63,2.0
+hara bhara kebabs,chat masala,1.28,2.0
+hara bhara kebabs,garam masala powder,0.65,2.0
+hara bhara kebabs,salt,3.46,2.0
+hara bhara kebabs,bread crumb,20.41,2.0
+hara bhara kebabs,olive oil,4.48,2.0
+shahi paneer korma,paneer cheese,200.0,4.0
+shahi paneer korma,cumin powder,2.02,4.0
+shahi paneer korma,onion,110.0,4.0
+shahi paneer korma,ginger root paste,6.64,4.0
+shahi paneer korma,garlic paste,4.67,4.0
+shahi paneer korma,garam masala powder,5.2,4.0
+shahi paneer korma,turmeric powder,2.02,4.0
+shahi paneer korma,coriander powder,2.02,4.0
+shahi paneer korma,red chili powder,2.8,4.0
+shahi paneer korma,white pepper powder,1.01,4.0
+shahi paneer korma,tomato paste,226.79,4.0
+shahi paneer korma,water,118.29,4.0
+shahi paneer korma,milk,123.02,4.0
+shahi paneer korma,salt,6.92,4.0
+yellow dal fry,split red lentils,89.9,8.0
+yellow dal fry,toor dal,95.81,8.0
+yellow dal fry,mung dal,113.56,8.0
+yellow dal fry,channa dal,101.73,8.0
+yellow dal fry,water,946.36,8.0
+yellow dal fry,oil,27.21,8.0
+yellow dal fry,cumin seed,1.03,8.0
+yellow dal fry,asafoetida powder,0.78,8.0
+yellow dal fry,onion,70.0,8.0
+yellow dal fry,garlic clove,5.0,8.0
+yellow dal fry,jalapeno,14.0,8.0
+yellow dal fry,ginger root,4.53,8.0
+yellow dal fry,turmeric,1.53,8.0
+yellow dal fry,cayenne pepper,0.44,8.0
+yellow dal fry,ground coriander,2.41,8.0
+yellow dal fry,ground cumin,2.07,8.0
+yellow dal fry,salt,5.46,8.0
+yellow dal fry,no-salt-added tomato sauce,51027.75,8.0
+yellow dal fry,fresh cilantro,3.11,8.0
+yellow dal fry,lemon juice,10.05,8.0
+fish korma,ladyfingers,500.0,3.0
+fish korma,onion,18.04,3.0
+fish korma,ginger root paste,6.64,3.0
+fish korma,green chilies,8.0,3.0
+fish korma,oil,9.06,3.0
+fish korma,turmeric powder,2.0,3.0
+fish korma,salt,5.19,3.0
+fish korma,chili powder,2.0,3.0
+fish korma,amchoor powder,2.0,3.0
+coconut chicken curry,peanut oil,26.92,4.0
+coconut chicken curry,chicken thigh fillets,700.0,4.0
+coconut chicken curry,onion,70.0,4.0
+coconut chicken curry,garlic clove,3.0,4.0
+coconut chicken curry,ginger root,4.53,4.0
+coconut chicken curry,coriander,3.45,4.0
+coconut chicken curry,cumin,4.14,4.0
+coconut chicken curry,turmeric,3.05,4.0
+coconut chicken curry,chili powder,1.33,4.0
+coconut chicken curry,tomato,273.0,4.0
+coconut chicken curry,coconut cream,300.47,4.0
+coconut chicken curry,chicken stock,119.47,4.0
+coconut chicken curry,cilantro,2.07,4.0
+coconut chicken curry,brown sugar,3.69,4.0
+butter chicken,boneless skinless chicken breast,1133.98,4.0
+butter chicken,tandoori paste,63.89,4.0
+butter chicken,plain yogurt,425.24,4.0
+butter chicken,lemon juice,60.34,4.0
+butter chicken,campbell's tomato soup,76.9,4.0
+butter chicken,fresh ginger root,20.41,4.0
+butter chicken,creamo,283.49,4.0
+butter chicken,garam masala,2.41,4.0
+butter chicken,salt,4.1,4.0
+butter chicken,sugar,1.05,4.0
+butter chicken,red chili pepper flakes,2.41,4.0
+butter chicken,cayenne pepper,0.44,4.0
+butter chicken,dried coriander,6.06,4.0
+butter chicken,lemon juice,20.1,4.0
+butter chicken,ground cumin,2.07,4.0
+butter chicken,butter,113.39,4.0
+paratha,wheat flour,250.79,3.0
+paratha,salt,5.19,3.0
+paratha,oil,81.64,3.0
+paratha,water,173.04,3.0
+indian fish pakoras,fish,453.59,2.0
+indian fish pakoras,lemon juice,9.66,2.0
+indian fish pakoras,salt,3.46,2.0
+indian fish pakoras,garbanzo flour,90.49,2.0
+indian fish pakoras,cilantro leaves,2.07,2.0
+indian fish pakoras,green chili,4.0,2.0
+indian fish pakoras,garlic,6.0,2.0
+indian fish pakoras,ginger root,4.53,2.0
+indian fish pakoras,red chili powder,4.21,2.0
+indian fish pakoras,turmeric,1.53,2.0
+indian fish pakoras,cumin seed,2.07,2.0
+indian fish pakoras,lemons,42.0,2.0
+indian fish pakoras,onion,69.46,2.0
+indian fish pakoras,chopped tomato,62.7,2.0
+indian fish pakoras,tamarind chutney,75.0,2.0
+indian fish pakoras,chutney,30.0,2.0
+shrimp,shrimp,453.59,2.0
+shrimp,garlic,2.8,2.0
+shrimp,salt,5.46,2.0
+shrimp,oil,4.53,2.0
+bhindi do piazza,fish,375.0,4.0
+bhindi do piazza,low-fat plain yogurt,170.34,4.0
+bhindi do piazza,sugar,2.09,4.0
+bhindi do piazza,salt,6.92,4.0
+bhindi do piazza,ghee,38.6,4.0
+bhindi do piazza,bay leaf,0.4,4.0
+bhindi do piazza,clove,0.36,4.0
+bhindi do piazza,green cardamoms,0.4,4.0
+bhindi do piazza,cinnamon stick,0.33,4.0
+bhindi do piazza,onion,450.0,4.0
+bhindi do piazza,fresh ginger root,4.0,4.0
+bhindi do piazza,dried red chilies,1.5,4.0
+bhindi do piazza,onion,150.0,4.0
+fish curry,fish fillets,907.18,6.0
+fish curry,garlic paste,28.1,6.0
+fish curry,ginger root,4.0,6.0
+fish curry,mustard seed,10.6,6.0
+fish curry,bay leaf,0.8,6.0
+fish curry,coriander powder,3.03,6.0
+fish curry,shallots,212.65,6.0
+fish curry,red chilies,3.5,6.0
+fish curry,cumin seed,6.21,6.0
+fish curry,turmeric powder,6.06,6.0
+fish curry,salt,49.25,6.0
+fish curry,tomato,246.0,6.0
+fish curry,water,709.77,6.0
+kheer,basmati rice,92.27,2.0
+kheer,water,473.18,2.0
+kheer,milk,1967.68,2.0
+kheer,green cardamom pods,1.0,2.0
+kheer,sugar,251.37,2.0
+kheer,blanched slivered almond,35.48,2.0
+kheer,ground cardamom,1.01,2.0
+kheer,ground nutmeg,0.57,2.0
+kheer,rose water,14.79,2.0
+crispy chicken sliders,boneless skinless chicken breast,378.0,4.0
+crispy chicken sliders,shortening,51.45,4.0
+crispy chicken sliders,panko breadcrumbs,113.56,4.0
+crispy chicken sliders,provolone cheese,84.0,4.0
+crispy chicken sliders,dinner roll,224.0,4.0
+crispy chicken sliders,seasoned salt,7.24,4.0
+crispy chicken sliders,onion powder,1.77,4.0
+crispy chicken sliders,garlic powder,1.57,4.0
+crispy chicken sliders,white pepper,0.59,4.0
+crispy chicken sliders,egg,100.0,4.0
+crispy chicken sliders,Crystal hot sauce,1.24,4.0
+spicy chicken bites,canola oil,330.04,6.0
+spicy chicken bites,chicken tenders,453.59,6.0
+spicy chicken bites,hot sauce,39.82,6.0
+spicy chicken bites,pancake mix,432.96,6.0
+spicy chicken bites,water,295.73,6.0
+spicy chicken bites,salt,10.38,6.0
+chicken rice bowl,teriyaki marinade,127.75,4.0
+chicken rice bowl,sugar,25.14,4.0
+chicken rice bowl,boneless skinless chicken breast,680.38,4.0
+chicken rice bowl,cornstarch,5.32,4.0
+chicken rice bowl,vegetable oil,27.21,4.0
+chicken rice bowl,cooked rice,474.0,4.0
+chicken rice bowl,vegetables,280.0,4.0
+spinach naan,corn kernel,255.52,6.0
+spinach naan,salt and pepper,0.5,6.0
+spinach naan,boneless chicken thighs,560.0,6.0
+spinach naan,tandoori masala,6.28,6.0
+spinach naan,mayonnaise,110.01,6.0
+spinach naan,A.1. Original Sauce,29.88,6.0
+spinach naan,green onion,15.0,6.0
+spinach naan,naan bread,540.0,6.0
+spinach naan,baby spinach leaves,141.74,6.0

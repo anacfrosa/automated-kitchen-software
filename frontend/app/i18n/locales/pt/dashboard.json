@@ -1,0 +1,16 @@
+{
+  "title": "Painel",
+  "selectShop": "Selecione uma loja",
+  "currentDate": "Data:",
+  "shopShortcut": {
+    "title": "Loja",
+    "subtitle": "Definições"
+  },
+  "storageShortcut": {
+    "title": "Manutenção",
+    "subtitle": "Armazenamento"
+  },
+  "suggestions": "Sugestões de Aprovisionamento",
+  "forecastDate": "Data de previsão",
+  "noNotifications": "Não existem sugestões para esta data."
+}

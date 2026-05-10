@@ -1,0 +1,24 @@
+{
+  "suppliers": {
+    "itemCreate": "A supplier has been created successfully.",
+    "itemUpdate": "A supplier has been updated successfully.",
+    "itemDelete": "A supplier has been deleted successfully.",
+    "itemFound": "A supplier was found with the given uuid: {id}",
+    "itemNotFound": "No supplier was found with the given uuid: {id}"
+  },
+  "purchases": {
+    "itemCreate": "A purchase has been created successfully.",
+    "itemUpdate": "A purchase has been updated successfully.",
+    "itemDelete": "A purchase has been deleted successfully.",
+    "itemFound": "A purchase was found with the given uuid: {id}",
+    "itemNotFound": "No purchase was found with the given uuid: {id}"
+  },
+  "receptions": {
+    "itemCreate": "A reception has been created successfully.",
+    "itemUpdate": "A reception has been updated successfully.",
+    "itemDelete": "A reception has been deleted successfully.",
+    "itemFound": "A reception was found with the given uuid: {id}",
+    "itemNotFound": "No reception was found with the given uuid: {id}"
+  },
+  "somethingWrong": "Something went wrong!"
+}

@@ -1,0 +1,100 @@
+{
+  "title": "Dispensers",
+  "subtitle1": "Fridge Storage",
+  "subtitle2": "Dry Storage",
+  "freeStatus": "Free",
+  "drawer": {
+    "title": "Dispenser",
+    "ingredient": "Ingredient",
+    "form": "Form",
+    "level": "Level",
+    "fillDate": "Fill Date",
+    "secDate": "Secondary Expiry Date",
+    "maxCap": "Max Capacity",
+    "currQty": "Current Quantity",
+    "lotNumber": "Lot Number",
+    "temperature": "Temperature",
+    "humidity": "Humidity",
+    "refillBtt": "Refill",
+    "removeBtt": "Remove"
+  },
+  "add": {
+    "fill": "Fill Dispenser",
+    "refill": "Refill Dispenser",
+    "number": "Dispenser Number",
+    "storage": "Dispenser Storage",
+    "ingredient": "Ingredient",
+    "lot": "Lot Number",
+    "qtyStorage": "Quantity in storage",
+    "qtyDisp": "Quantity in dispenser",
+    "maxCap": "Max Capacity",
+    "totalQty": "Total Quantity Available",
+    "qtyAvailable": "Quantity available to add",
+    "qtyToAdd": "Quantity to add",
+    "confirmQty": "Confirm the quantity to add",
+    "requiredQty": "Required Quantity",
+    "quantity": "Quantity",
+    "list": "List of Available Lots",
+    "confirmList": "Confirm Quantities",
+    "labels": {
+      "available": "Quantity available",
+      "confirm": "Confirm Quantity"
+    }
+  },
+  "remove": {
+    "title": "Remove from Dispenser",
+    "number": "Dispenser Number",
+    "ingredient": "Ingredient",
+    "form": "Form",
+    "currQty": "Current Quantity",
+    "fillDate": "Fill Date",
+    "secDate": "Secondary Expiry Date",
+    "removeQty": "Removal Quantity",
+    "listLots": "List of lot numbers to be removed",
+    "reason": {
+      "title": "Removal reason",
+      "reason1": "Removal of ingredient from recipes line-up.",
+      "reason2": "Removal of ingredient for non-conformity to health regulations.",
+      "reason3": "Removal for surpassed expiry date.",
+      "reason4": "Other reasons.",
+      "placeholder": "Enter other reasons..."
+    },
+    "removeBtt": "Remove"
+  },
+  "removeAlerts": {
+    "title": "Confirm ingredient removal from dispenser ",
+    "content1": "This will remove all",
+    "content2": "inventory from the dispenser."
+  },
+  "addAlerts": {
+    "title": "Confirm refill dispenser",
+    "title2": "Confirm fill dispenser",
+    "content1": "This action will add",
+    "content2": "of",
+    "content3": "to dispenser"
+  },
+  "fillAlerts": {
+    "title1": "Confirm filling ",
+    "title2": " to dispenser "
+  },
+  "cancelAlerts": {
+    "title": "Cancel Fill Dispenser",
+    "content": "This will cancel adding ingredient to dispenser"
+  },
+  "refillNotAllowed": {
+    "title": "Refill not allowed.",
+    "content1": "Refills only available for 1-lot dispensers.",
+    "content2": "Full dispenser.",
+    "content3": "Insufficient quantity stored in inventory."
+  },
+  "editAlert": {
+    "title": "Edit Mode active",
+    "content": "Please, confirm the edited values."
+  },
+  "confirmAlert": {
+    "title": "Error in the confirmation fields.",
+    "content": ""
+  },
+  "yes": "Yes",
+  "no": "No"
+}

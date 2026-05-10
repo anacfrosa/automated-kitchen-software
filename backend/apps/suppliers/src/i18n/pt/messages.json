@@ -1,0 +1,24 @@
+{
+  "suppliers": {
+    "itemCreate": "Um fornecedor foi criado com sucesso.",
+    "itemUpdate": "Um fornecedor foi atualizado com sucesso.",
+    "itemDelete": "Um fornecedor foi removido com sucesso.",
+    "itemFound": "Um fornecedor foi encontrado com o uuid: {id} fornecido",
+    "itemNotFound": "Nenhum fornecedor foi encontrado com o uuid: {id} fornecido"
+  },
+  "purchases": {
+    "itemCreate": "Uma compra foi criada com sucesso.",
+    "itemUpdate": "Uma compra foi atualizada com sucesso.",
+    "itemDelete": "Uma compra foi removida com sucesso.",
+    "itemFound": "Uma compra foi encontrada com o uuid: {id} fornecido",
+    "itemNotFound": "Nenhuma compra foi encontrada com o uuid: {id} fornecido"
+  },
+  "receptions": {
+    "itemCreate": "Uma receção de ingredientes foi criada com sucesso.",
+    "itemUpdate": "Uma receção de ingredientes foi atualizada com sucesso.",
+    "itemDelete": "Uma receção de ingredientes foi removida com sucesso.",
+    "itemFound": "Uma receção de ingredientes foi encontrada com o uuid: {id} fornecido",
+    "itemNotFound": "Nenhuma receção de ingredientes foi encontrada com o uuid: {id} fornecido"
+  },
+  "somethingWrong": "Algo deu errado!"
+}

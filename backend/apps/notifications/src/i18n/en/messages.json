@@ -1,0 +1,11 @@
+{
+  "supply": {
+    "title": {
+      "purchase": "Purchase {ingrName}",
+      "fill": "Fill Dispenser",
+      "refill": "Refill Dispenser"
+    },
+    "subtitle": "Required {quantity} {measureUnit} of {ingrName}"
+  },
+  "somethingWrong": "Something went wrong!"
+}

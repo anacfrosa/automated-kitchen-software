@@ -1,0 +1,45 @@
+{
+  "title": "Fornecedores",
+  "searchInput": "Pesquisar por nome, contacto, ou email...",
+  "buttons": {
+    "register": "Registar",
+    "export": "Exportar",
+    "downloadAsExcel": "Descarregar como Excel",
+    "downloadAsCSV": "Descarregar como CSV",
+    "submit": "Submeter"
+  },
+  "tableHead": {
+    "supplier": "Fornecedor",
+    "contact": "Telefone",
+    "email": "Email",
+    "location": "Localização",
+    "address": "Endereço",
+    "website": "Página Web"
+  },
+  "tooltip": { "email": "Enviar Email", "edit": "Editar" },
+  "noData": {
+    "notFound": {
+      "title": "Não encontrado.",
+      "problem": "Nenhum resultado encontrado para ",
+      "help": "Tente verificar se há erros de digitação ou usar palavras completas."
+    },
+    "empty": {
+      "title": "List de fornecedores vazia.",
+      "problem": "Não existe registo de nenhum fornecedor."
+    }
+  },
+  "fields": {
+    "name": "Nome",
+    "country": "País",
+    "zipcode": "Código Postal",
+    "phone": "Telefone",
+    "city": "Cidade",
+    "email": "Email",
+    "address": "Endereço",
+    "website": "Página Web"
+  },
+  "createTitle": "Registar Novo Fornecedor",
+  "editTitle": "Editar Fornecedor",
+  "createSuccess": "Novo fornecedor registado com sucesso !",
+  "editSucces": "Fornecedor editado com sucesso !"
+}

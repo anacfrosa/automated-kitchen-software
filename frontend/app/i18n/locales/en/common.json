@@ -1,0 +1,62 @@
+{
+  "home": {
+    "title": "Automated Kitchen Assistant Software",
+    "signIn": "Sign In",
+    "logIn": "Log In",
+    "role": "Role",
+    "roleOptions": {
+      "admin": "Super Admin",
+      "handler": "Food Handler",
+      "manager": "Shop Manager"
+    }
+  },
+  "buttons": {
+    "export": "Export",
+    "downloadAsExcel": "Download as Excel",
+    "downloadAsCSV": "Download as CSV",
+    "cancel": "Cancel",
+    "submit": "Submit",
+    "next": "Next",
+    "back": "Back",
+    "yes": "Yes",
+    "no": "No"
+  },
+  "sidebarLinks": {
+    "dashboard": "Dashboard",
+    "maintenance": "Maintenance",
+    "reports": "Reports",
+    "settings": "Settings"
+  },
+  "navbarTitles": {
+    "inventory": "Inventory",
+    "dispensers": "Dispensers",
+    "purchases": "Purchases",
+    "suppliers": "Suppliers"
+  },
+  "navbarLinks": {
+    "dashboard": "Dashboard",
+    "maintenance": "Maintenance Management",
+    "reports": "Historical Reports",
+    "settings": "Settings",
+    "storage": "Storage",
+    "ingredients": "Ingredients"
+  },
+  "inputs": {
+    "supplier": "Supplier",
+    "ingredient": "Ingredient",
+    "measureUnit": "Measure Unit"
+  },
+  "alertReception": {
+    "title": "Missing Transport/Food Check",
+    "subtitle": "You need to check the transport and food first !"
+  },
+  "titles": {
+    "ingredients": "Received Ingredients",
+    "accepted": "Accepted",
+    "nonAccepted": "Non-Accepted"
+  },
+  "unauthorized": {
+    "title": "Unauthorized",
+    "content": "You are not allowed to access this area."
+  }
+}
